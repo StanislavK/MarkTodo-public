@@ -1,2 +1,2 @@
 # MarkTodo-public
-MarkTodo
+This is a public feed for MarkTodo app.
